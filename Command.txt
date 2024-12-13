@@ -1,0 +1,3 @@
+git add MyFile.txt
+git add InfoFile1 InfoFile2
+git config user.name Sajjan_INFO
