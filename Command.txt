@@ -1,3 +1,6 @@
 git add MyFile.txt
 git add InfoFile1 InfoFile2
 git config user.name Sajjan_INFO
+git add Command.txt
+git status
+The two files Command.txt and MyFile.txt have been modified but are not yet staged. This means Git has detected changes in these files compared to their last committed state.
